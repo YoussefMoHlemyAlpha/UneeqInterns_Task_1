@@ -1,1 +1,2 @@
-# UneeqInterns_Task_1
+# <u> Machine Learning Internship at UneeQInterns -Task 1  [Customer Churn Prediction]</u>
+<i> In this Task my objective is to conduct an in-depth exploration and Prediction of the Customer dataset. We use three distinct classification algorithms—K-Nearest Neighbors (KNN), Naive Bayes, and Logistic Regression—to forecast the Churn outcomes of Customers. my wrok includes a comparative examination of the performance of these algorithms based on various evaluation metrics. </i>
